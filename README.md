@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Arab Sadiq
+- 👀 I’m interested in Swift programming on Apple platforms
+- 🌱 I’m currently learning about server-side Swift with Vapor
